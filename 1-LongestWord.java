@@ -1,4 +1,4 @@
-public class longestword {
+public class LongestWord {
     public static String findLongestWord(String sentence) {
         // Split the sentence into words using whitespace as delimiter
         String[] words = sentence.split("\\s+");
