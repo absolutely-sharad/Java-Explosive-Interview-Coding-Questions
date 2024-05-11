@@ -26,7 +26,7 @@ public class PalindromeStringChecker {
 
     public static void main(String[] args) {
         // Example usage:
-        System.out.println(isPalindrome("A man, a plan, a canal, Panama")); // Output: true
+        // System.out.println(isPalindrome("A man, a plan, a canal, Panama")); // Output: true
         System.out.println(isPalindrome("racecar")); // Output: true
         System.out.println(isPalindrome("hello")); // Output: false
     }
