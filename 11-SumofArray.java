@@ -8,7 +8,7 @@ public class ArraySum {
             sum += array[i];
         }
 
-        // Return the computed sum
+        // Return the calculated sum
         return sum;
     }
 
